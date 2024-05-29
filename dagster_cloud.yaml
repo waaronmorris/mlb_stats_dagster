@@ -1,4 +1,4 @@
 locations:
 - code_source:
     package_name: quickstart_etl
-  location_name: mlb_stats
+  location_name: mlb_stats_dagster
